@@ -10,7 +10,4 @@
 - 📫 How to reach me **contact@mayodev.live**
 
 
-## Language Usage ~ Status
-![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=D3marko&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)
-<p align="center">
 
