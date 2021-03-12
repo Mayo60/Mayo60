@@ -11,6 +11,6 @@
 
 
 ## Language Usage ~ Status
-![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=d3marko&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)
+![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=Mohamed Zidani&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)
 <p align="center">
 
