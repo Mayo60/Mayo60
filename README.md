@@ -6,7 +6,6 @@
 
 - 🔭 I’m a former lead developer and manager of  [Vanilla Remastered](https://vanilla-remastered.com)
 
-~~- 🤔 I’m looking for a job [Here is my showcase](https://mayodev.live)~~ (i am not available nor looking for a job)
 
 - 📫 How to reach me **contact@mayodev.live**
 
