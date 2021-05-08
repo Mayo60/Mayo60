@@ -4,10 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3marko" alt="Mayo" /> </p>
 
 
-- 🔭 I’m a former lead developer and manager of  [Vanilla Remastered](https://vanilla-remastered.com)
-
-
-- 📫 How to reach me **contact@mayodev.live**
+- 📫 **contact@mayodev.live**
 
 </a>
 <a href="https://github.com/d3marko">
