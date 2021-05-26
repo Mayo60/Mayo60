@@ -15,11 +15,17 @@ I'm a self-taught *(kinda)*, JavaScript developer, Started coding around **March
 - 🌍 [My Personal website!](https://mayodev.live)
 
 ## Some Statistics
-
+<table>
+<tr></tr>
+<tr><td>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=d3marko&count_private=true&show_icons=true"/>
 </a>
 
+</td><td>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=d3marko&v=2"/>
 </a>
+</td></tr> </table>
+
+
