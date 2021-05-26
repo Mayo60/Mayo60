@@ -8,10 +8,10 @@ I'm a self taught (kinda), JavaScript developer, Started coding around **March 2
 
 - **contact@mayodev.live**
 - Discord: **Mayo#5987**
-- 
 
 
 ### 👀 Quick Statistics
+
 [![Mayo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=d3marko&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 <table>
