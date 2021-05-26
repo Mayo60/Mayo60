@@ -1,4 +1,4 @@
-# Hey , I'm Mohamed Zidani! 👋 
+# Hey , I'm Mohamed Zidani! 👋  <img src="https://komarev.com/ghpvc/?username=d3marko" alt="" align="center" />
 
 
 - 🤗 18 Years old from Algeria  :heart:
@@ -16,16 +16,14 @@ I'm a self-taught *(kinda)*, JavaScript developer, Started coding around **March
 
 ## Some Statistics
 <table>
-<tr></tr>
-<tr><td>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=d3marko&count_private=true&show_icons=true"/>
-</a>
-
-</td><td>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=d3marko&v=2"/>
-</a>
-</td></tr> </table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=d3marko&count_private=true&show_icons=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/wakatime?username=d3marko&v=2" />
+    </td>
+  </tr>
+</table>
 
 
