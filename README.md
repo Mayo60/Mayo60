@@ -20,7 +20,7 @@ I'm a self-taught *(kinda)*, JavaScript developer, Started coding around **March
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=d3marko&count_private=true&show_icons=true" />
     </td>
-    <td align="center" style="padding=0;width=50%;">
+    <td align="center" style="padding=0;width=100%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/wakatime?username=d3marko&v=2" />
     </td>
   </tr>
