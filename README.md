@@ -12,10 +12,11 @@ I'm a self taught (kinda), JavaScript developer, Started coding around **March 2
 
 ### 👀 Quick Statistics
 
-[![Mayo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=d3marko&v=2)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=d3marko&count_private=true&show_icons=true"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=d3marko&layout=compact" />
+</a>
 
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=d3marko&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
- </table>
+
