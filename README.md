@@ -16,7 +16,7 @@ I'm a self taught (kinda), JavaScript developer, Started coding around **March 2
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=d3marko&count_private=true&show_icons=true"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=d3marko&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=d3marko" />
 </a>
 
 
