@@ -21,7 +21,7 @@ I'm a self-taught *(kinda)*, JavaScript developer, Started coding around **March
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=d3marko&count_private=true&show_icons=true" />
     </td>
     <td align="center" style="padding=0;width=100%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/wakatime?username=d3marko&v=2" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/wakatime?username=d3marko&v=2&layout=default&custom_title=Time I spent on:&line_height=29" />
     </td>
   </tr>
 </table>
