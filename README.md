@@ -5,7 +5,7 @@
 - :office: &nbsp;I'm currently working at **The Arab Future**
 - :seedling: &nbsp;I’m currently learning **JavaScript**
 - :speech_balloon: &nbsp;I like to talk about **Games** and **Modding**
-- 🧠 Trial & Error codist
+- 🧠 &nbsp;Trial & Error codist
 
 ### :book: About me
 
